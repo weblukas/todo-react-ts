@@ -6,7 +6,7 @@ const App: FC = ()=> {
     <div className="App">
       <header className="App-header">
        <input type='text' placeholder="add todo"/>
-       <input type='text' placeholder="add todo"/>
+       <button>Add todo</button>
       </header>
     </div>
   );
